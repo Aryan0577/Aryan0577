@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan0577
+- 👋 Hi, I’m Aryan
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin+ JetCompose
 - 💞️ I’m looking to collaborate on my Personal Coach App
