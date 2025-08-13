@@ -58,17 +58,6 @@ An innovative accessibility application designed to empower visually impaired us
 - Camera integration for enhanced camera performance
 - Google ML Kit for accurate AI processing
 
-### 20-20-20 - Eye Strain Prevention App
-**Technologies**: *Android, Kotlin, Jetpack Compose, Room Database*
-
-A health-focused application that implements the 20-20-20 rule to reduce digital eye strain. The app reminds users to take regular breaks and look at distant objects to maintain eye health.
-
-**Key Features**:
-- Smart break reminders every 20 minutes
-- Customizable timing for flexible notifications
-- Customizable break intervals and durations
-- Eye exercise suggestions and tips
-- Usage statistics and health insights
 
 ## GitHub Stats
 
