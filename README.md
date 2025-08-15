@@ -2,13 +2,13 @@
 
 **Android Developer & B.Tech Student @ IIIT Una**
 
-I'm a passionate Android developer and final-year B.Tech student at Indian Institute of Information Technology Una, with expertise in mobile app development using Jetpack Compose. Currently diving deep into Data Structures and Algorithms in C++ while building innovative mobile solutions using Spring Boot.
+I'm a passionate Android developer and final-year B.Tech student at Indian Institute of Information Technology Una, with expertise in mobile app development using Jetpack Compose. Currently diving deep into Data Structures and Algorithms in C++ while building innovative mobile solutions.
 
 ## About Me
 
 - 🎓 **Education**: B.Tech Student at IIIT Una
 - 📱 **Specialization**: Android Development with Jetpack Compose
-- 💻 **Currently Learning**: Data Structures and Algorithms in C++, Spring Boot
+- 💻 **Currently Learning**: Data Structures and Algorithms in C++
 - 🔧 **Focus Areas**: Mobile app development, backend development
 - 🌟 **Passion**: Creating user-friendly mobile applications that solve real-world problems
 
@@ -24,7 +24,6 @@ I'm a passionate Android developer and final-year B.Tech student at Indian Insti
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Development Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
