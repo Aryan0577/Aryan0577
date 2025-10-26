@@ -1,77 +1,22 @@
 # Hi there, I'm Aryan Poonia!
 
-**Android Developer & B.Tech Student @ IIIT Una**
-
-I'm a passionate Android developer and final-year B.Tech student at Indian Institute of Information Technology Una, with expertise in mobile app development using Jetpack Compose. Currently diving deep into Data Structures and Algorithms in C++ while building innovative mobile solutions.
-
 ## About Me
+- My love for computers began at a very young age. From the very start, I found building stuff very cool. Even when I got an android phone, I wanted to customize it more and more. Earlier it was by installing custom ROMs, different launchers etc. For this very reason, I joined Computer Science as it was the best way to create something for mobile devices. Even though at the start of my degree, I got overwhelmed by the subjects like Data Structures, due to which I think I should have started with android dev but sadly those things cannot be changed now. So, I started android development in my sophomore  year and since then, there was not a single day I have spent without thinking about my applications and on how to improve them. Each new app I download, I see it like "Oh! this feature is great! I can implement it too in my projects!". 
+- I mostly create applications using Kotlin and Firebase as the database.
+- Currently, I am studying more about creating servers ie custom backends for my applications using nodeJS instead of just simply using a Backend as a Service.
+- I’ve also launched my own app on the Play Store: [Hype Launcher](https://play.google.com/store/apps/details?id=com.launcher.hype)
 
-- 🎓 **Education**: B.Tech Student at IIIT Una
-- 📱 **Specialization**: Android Development with Jetpack Compose
-- 💻 **Currently Learning**: Data Structures and Algorithms in C++
-- 🔧 **Focus Areas**: Mobile app development, backend development
-- 🌟 **Passion**: Creating user-friendly mobile applications that solve real-world problems
+## Connect With Me
 
-## Technical Skills
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Development Frameworks & Technologies
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
-
-### Development Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## Featured Projects
-
-### TimeOUT - Parental Control App
-**Technologies**: *Android, Kotlin, Firebase, Jetpack Compose*
-
-A comprehensive parental control app designed to help parents monitor and manage their children's screen time effectively. The system consists of a parent control app and a child monitoring app that work seamlessly together.
-
-**Key Features**:
-- Real-time screen time monitoring and alerts
-- App usage tracking with detailed analytics
-- Remote device locking and time restrictions
-- Predefined and time database synchronization
-- Modern UI built with Jetpack Compose
-
-### Saarthak - Accessibility App
-**Technologies**: *Android, Kotlin, Firebase, Jetpack Compose*
-
-An innovative accessibility application designed to empower visually impaired users with advanced AI-powered features for better navigation and interaction with their environment.
-
-**Key Features**:
-- Real-time object detection and identification
-- Text recognition and audio feedback
-- Voice commands and audio feedback
-- Camera integration for enhanced camera performance
-- Google ML Kit for accurate AI processing
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white&borderRadius=50)](https://aryzium.site/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=50)](mailto:aryan0577@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=50)](https://linkedin.com/in/aryan-poonia)
 
 
 ## GitHub Stats
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan0577&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan0577&layout=compact&theme=dark)
-
-
-
-## Let's Connect!
-
-- **Portfolio**: [View My Work](https://aryzium.site/)
-- **Email**: [Get In Touch](mailto:aryan0577@gmail.com)
-- **Linkedin** : [Aryan-Poonia](https://linkedin.com/in/aryan-poonia)
-- **Open to**: Collaboration opportunities, internships, and tech discussions
-
+![](https://nirzak-streak-stats.vercel.app/?user=Aryan0577&theme=dark&hide_border=false)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan0577&theme=github-compact&custom_title=Pac-Man's%20Activity%20Trail&hide_border=true&bg_color=0d1117&color=ff7b00&line=ff7b00&point=f0f6fc)
 
 ---
